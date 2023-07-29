@@ -4,7 +4,7 @@ metadata:
   name: api-ingress
 spec:
   rules:
-    - host: api.example.com  # Replace with your API domain or IP
+    - host: api.example.com 
       http:
         paths:
           - path: /
